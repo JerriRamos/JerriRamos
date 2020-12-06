@@ -1,4 +1,4 @@
-<img src="https://image.freepik.com/free-vector/man-programmer-working-computer-with-code-screen-illustration_87749-275.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://w7.pngwing.com/pngs/519/64/png-transparent-black-laptop-computer-illustration-computer-programming-web-development-computer-software-programming-language-theme-coder-electronics-gadget-internet.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 <p align="left"> 
