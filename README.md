@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  💌 Msg: <strong>If you want to contact me, don't hesitate to send me a message:</strong> ⤵️
+  :speech_balloon: Msg: <strong>If you want to contact me, don't hesitate to send me a message:</strong> ⤵️
 </p>
 
 <p align="left">
