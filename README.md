@@ -6,12 +6,11 @@
 </p>
 
 <p align="left">
-  :fire: sadsa
-  🦄 Skills: <strong>HTML, CSS, Php, Bootstrap.</strong>
+  :ghost: Skills: <strong>HTML, CSS, Php, Bootstrap.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, CorelDraw 2019, Figma, Git and GitHub.</strong>
+  :books: Tools: <strong>Visual Studio Code, CorelDraw 2019, Figma, Git and GitHub.</strong>
 </p>
 
 <p align="left">
