@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://image.freepik.com/free-vector/man-programmer-working-computer-with-code-screen-illustration_87749-275.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 <p align="left"> 
   Hello my name is Jerri, I am <strong>Medium Stack Web Developer</strong> and <strong>Logo Designer</strong>.<br>
