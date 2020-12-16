@@ -1,4 +1,4 @@
-<img src="https://image.flaticon.com/icons/png/512/1995/1995515.png" min-width="400px" max-width="400px" width="300px" height="230px" align="right" alt="Computador iuriCode">
+<img src="https://techprep.org/pt/wp-content/themes/techprep/dist/img/why/icon-problemSolving.png" min-width="400px" max-width="400px" width="300px" height="230px" align="right" alt="Computador iuriCode">
 
 
 <p align="left"> 
