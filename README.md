@@ -1,4 +1,4 @@
-<img src="https://image.flaticon.com/icons/png/512/1995/1995515.png" min-width="400px" max-width="400px" width="220px" align="right" alt="Computador iuriCode">
+<img src="https://www.clipartmax.com/png/middle/286-2865136_programadores-ilustradores-y-tutores-para-la-creaci%C3%B3n-computer.png" min-width="400px" max-width="400px" width="220px" align="right" alt="Computador iuriCode">
 
 
 <p align="left"> 
