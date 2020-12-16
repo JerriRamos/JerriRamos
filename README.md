@@ -1,4 +1,4 @@
-<img src="https://e7.pngegg.com/pngimages/268/513/png-clipart-web-development-programmer-computer-icons-software-developer-web-development-computer-icons-avatar-business-angle-text.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://image.flaticon.com/icons/png/512/1995/1995515.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 <p align="left"> 
