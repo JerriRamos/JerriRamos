@@ -1,4 +1,4 @@
-<img src="https://image.flaticon.com/icons/png/512/1995/1995515.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://image.flaticon.com/icons/png/512/1995/1995515.png" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador iuriCode">
 
 
 <p align="left"> 
