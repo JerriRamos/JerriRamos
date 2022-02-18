@@ -1,4 +1,4 @@
-<a href="https://github.com/JerriRamos"><img src="https://techprep.org/pt/wp-content/themes/techprep/dist/img/why/icon-problemSolving.png" min-width="400px" max-width="400px" width="300px" height="230px" align="right" alt="Computador iuriCode"></a>
+<a href="https://github.com/JerriRamos"><img src="https://techprep.org/pt/wp-content/themes/techprep/dist/img/why/icon-problemSolving.png" min-width="400px" max-width="400px" width="300px" height="230px" align="right" alt="Computador jerriRamos"></a>
 
 
 <p align="left"> 
