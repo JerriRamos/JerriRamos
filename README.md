@@ -1,4 +1,4 @@
-<a href="https://github.com/JerriRamos"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-dkbol&psig=AOvVaw3-ioyCcfXv2mpjN1Lhs7qw&ust=1645294253634000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCu6vbsifYCFQAAAAAdAAAAABAD" min-width="400px" max-width="400px" width="300px" height="230px" align="right" alt="Computador jerriRamos"></a>
+<a href="https://github.com/JerriRamos"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-etecn&psig=AOvVaw3oswn9oTm3edeJYlWz-f4k&ust=1645294373714000&source=images&cd=vfe&ved=2ahUKEwjYtOum7Yn2AhVPEsAKHa0ZBXEQjRx6BAgAEAk" min-width="400px" max-width="400px" width="300px" height="230px" align="right" alt="Computador jerriRamos"></a>
 
 
 <p align="left"> 
