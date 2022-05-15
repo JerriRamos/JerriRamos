@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
-  :ghost: Skills: <strong>HTML, CSS, Php, Bootstrap.</strong>
+  :ghost: Skills: <strong>HTML, CSS, Php, Bootstrap, Java, Design, Computer repair(Software/Hardware).</strong>
 </p>
 
 <p align="left">
-  :books: Tools: <strong>Visual Studio Code, CorelDraw 2019, Figma, Git and GitHub.</strong>
+  :books: Tools: <strong>Visual Studio Code, CorelDraw 2019, Figma, Git and GitHub, Android Studio.</strong>
 </p>
 
 <p align="left">
